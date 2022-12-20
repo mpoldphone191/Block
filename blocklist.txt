@@ -9714,3 +9714,4 @@ instagram.c10r.facebook.com
 cdninstagram.com
 ig.me
 instagram.com
+applicationinsights.us
