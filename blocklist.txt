@@ -9726,3 +9726,5 @@ mrcrizguan.com
 naydofoundation.org
 bingapis.com
 dodsafe.net
+pkgio.cin
+npmjs.com
