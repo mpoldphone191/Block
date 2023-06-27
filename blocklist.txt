@@ -9856,3 +9856,4 @@ ero-advertising.com
 d3hdbjtb1686tn.cloudfront.net
 hisp.in
 mb.download.gigabyte.com
+prod.telemetry.tableausoftware.com
