@@ -10018,4 +10018,17 @@ default.exp-tas.com
 googleads.g.doubleclick.net
 app-measurement.com
 www.bing.com
+360proxy.com
+922proxy.com
+abcproxy.com
+cherryproxy.com
+doorvpn.com
+galleonvpn.com
+ip2world.com
+ipidea.io
+lunaproxy.com
+piaproxy.com
+pyproxy.com
+radishvpn.com
+tabproxy.com
 
