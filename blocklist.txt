@@ -10047,3 +10047,6 @@ gw.proxyvector.cc
 third-party.com
 elxxvvx.xyz
 x.com
+web.archive.org
+gitflic.ru
+codeberg.org
