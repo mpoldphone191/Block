@@ -10050,3 +10050,9 @@ x.com
 web.archive.org
 gitflic.ru
 codeberg.org
+muckanthropic.com
+muckduck.duckdns.org
+muckcoding.com
+muckdeveloper.com
+
+
